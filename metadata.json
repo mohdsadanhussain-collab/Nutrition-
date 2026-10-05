@@ -1,0 +1,6 @@
+{
+  "name": "NUTRISNAP AI",
+  "description": "Snap your food. Know your nutrition. AI-powered food calorie and nutrition analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
